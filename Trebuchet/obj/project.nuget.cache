@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xoJW32h4y3/Pl4Y6cdAwQKyUvqiQXxm3F9RI2HgRLoi+yEn7fZgbyWAxyRkSQEDlAF3m+Ihndy7GQKtCFxoBnQ==",
+  "dgSpecHash": "1k7EgMa/Tu/K+3kR4QllTbYBzMTrpB++0ScByzMiY79vkCDic1aIOuAED3pKUqxZSTa+sYIvrjMSMxCXbV8rxA==",
   "success": true,
-  "projectFilePath": "/Users/tobiasbednar/Developer/AdventOfCode2023/Trebuchet/Trebuchet.csproj",
+  "projectFilePath": "/Users/tobiasbednar/Developer/AdventOfCode2023/Trebuchet/Day1_Trebuchet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

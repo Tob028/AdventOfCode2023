@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tobiasbednar/Developer/AdventOfCode2023/Trebuchet/Trebuchet.csproj",
-      "projectName": "Trebuchet",
-      "projectPath": "/Users/tobiasbednar/Developer/AdventOfCode2023/Trebuchet/Trebuchet.csproj",
+      "projectUniqueName": "/Users/tobiasbednar/Developer/AdventOfCode2023/Trebuchet/Day1_Trebuchet.csproj",
+      "projectName": "Day1_Trebuchet",
+      "projectPath": "/Users/tobiasbednar/Developer/AdventOfCode2023/Trebuchet/Day1_Trebuchet.csproj",
       "packagesPath": "/Users/tobiasbednar/.nuget/packages/",
       "outputPath": "/Users/tobiasbednar/Developer/AdventOfCode2023/Trebuchet/obj/",
       "projectStyle": "PackageReference",
