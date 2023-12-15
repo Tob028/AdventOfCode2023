@@ -17,13 +17,13 @@ using (var sr = new StreamReader("./Input.txt"))
 
         foreach (var number in winningNumbers)
         {
-            if (guessedNumbers.Contains(number))
+            if (number != "" && guessedNumbers.Contains(number))
             {
                 timesWon++;
             }
         }
 
-        if (timesWon > 1)
+        if (timesWon >= 1)
         {
             totalValue += (int)Math.Pow(2, timesWon - 1);
         }
